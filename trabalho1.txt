@@ -51,5 +51,10 @@ diferentes linguagens de programação;
 12. Aplicações web com renderização no servidor: utilização de templates html
 e conceitos de arquitetura de sistema Model-View-Controller;
 
+Desenvolvimento Web
+Segundo período
+2024
+
+
 
 
