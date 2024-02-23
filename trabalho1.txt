@@ -1,0 +1,53 @@
+1. sqlitebrowser -- referencias: https://www.androidpro.com.br/blog/armazenamento-de-dados/sqlite/#:~:text=O%20SQLite%20%C3%A9%20o%20banco,os%20dados%20do%20mundo%20real.
+O SQLite é o banco de daos interno e oficial da plataforma Android, com ele é possivel realizar a modelagem de estruturas de tableas relacionadas entre si, sera usado para introducao do banco de dados e para conceitos basicos sobre interfaces de usuario
+
+2. python -- referencias: https://www.python.org/about/apps/
+O python é usado para diversas aplicações, ele será usado para desenvolvimento web e internet e ele é uma otima linguagem para entender os conceitos basicos, desenvolvimento fullstack
+
+3. git -- referencias: https://git-scm.com/about
+O Git permite e incentiva você a ter múltiplas filiais locais que podem ser totalmente independentes umas das outras. Pode ser com qualquer linguagem (Java, JavaScript, Python, CSS, HTML), relacinando tambem com os conceitos basicos da programacao, programcao sincrona/assisncrona, e proocolos de comunicacao
+
+4. vscode -- referencias: https://code.visualstudio.com/docs
+O VSCode sera usado para editor de texto, diferente de Word onde ele edita caracteres e nao documentos, sendo possivel realizar a codificacao de diferentes linguagens, sendo usado para desenvolvimento de paginas para internet e frameworks para desenvolvimento fullstack, disponibilizando diferentes ferramentas e atalhos 
+
+5. Navegador(Opera, Chrome, FireFox) -- referencia: https://pt.wikipedia.org/wiki/Google_Chrome
+Usados para procurar sobre documentações e navegamento na internet. sera muito usado para os fundamentos das linguagens e internet e web, e procurar conceitos basicos de programacao, sendo possivel procurar todos os topicos 
+
+
+-Conteudo
+1. Arquitetura da Web: conceitos básicos sobre redes de computadores,
+arquiteturas de aplicações cliente-servidor, o papel do navegador web,
+conceitos e exemplos de servidores web (http e de aplicação);
+2. Protocolos de comunicação da internet: conceitos sobre protocolos de
+comunicação importantes para o desenvolvimento web (TCP/UPD, HTTP, FTP,
+SMTP e DNS);
+3. Internet e web: introdução aos conceitos de aplicações web, infraestrutura
+web, infraestrutura em nuvem, serviços web, URLs e domínos;
+4. Conceitos básicos de programação de computadores: programação
+imperativa, programação orientada a eventos, programação
+síncrona/assíncrona, ferramentas básicas de programação, versionamento
+de código (git);
+5. Fundamentos da linguagem HTML: conceito de linguagem de marcação de
+texto, estrutura do documento HTML, elementos de layout, elementos de
+layout não-semânticos, elementos de destaque de texto, elementos de
+navegação, mídia, formulários e tabelas;
+6. Fundamentos da linguagem CSS: seletores, herança, box model, background,
+bordas, cores, manipulação de texto, overflow de conteúdo, valores,
+unidades de medida e manipulação de imagens;
+7. Fundamentos da linguagem Javascript: gramática básica, introdução aos
+tipos de dados e funções, expressões e operadores;
+8. Introdução a Bancos de Dados para desenvolvimento web: conceito de
+bancos de dados, bancos de dados relacionais, bancos de dados NoSQL e
+mapeamento objeto-relacional;
+9. Desenvolvimento de páginas para internet: ferramentas de programação
+HTML, CSS e JavaScript; ferramentas para análise de documentos HTML e CSS;
+análise de sites existentes;
+10. Conceitos básicos sobre interfaces de usuário dinamicamente adaptáveis:
+layout baseado em proporções, layout responsivo, formatação CSS
+condicional com media queries.
+11. Frameworks para desenvolvimento fullstack: conceitos e exemplos de
+frameworks para desenvolvimento integral, ou parcial, de aplicações web em
+diferentes linguagens de programação;
+12. Aplicações web com renderização no servidor: utilização de templates html
+e conceitos de arquitetura de sistema Model-View-Controller;
+
